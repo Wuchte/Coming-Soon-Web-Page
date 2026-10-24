@@ -6,7 +6,7 @@ Static HTML/CSS/JS, deployed with GitHub Pages using the custom domain in `CNAME
 
 ## Structure
 
-- `index.html`: page content (hero, about, expertise, contact)
+- `index.html`: page content (hero, about, expertise, experience, contact)
 - `assets/css/style.css`: styles; colors and fonts are defined as variables in `:root`
 - `assets/js/main.js`: sticky nav state and scroll-reveal animations
 
